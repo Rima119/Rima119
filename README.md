@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, my name is Rim</h1>
-<h3 align="center">🎓 Graduate Student & Researcher @ Tsinghua University (AIR Institute)</h3>
-<h3 align="center"> 👩‍💻 Computer Scientist | Neuromorphic Robotics | Computer Vision | Multimodal Learning</h3>
+<h3 align="center">🎓 CS @ Tsinghua University </h3>
+<h3 align="center"> 👩‍💻 Robot Learning | Embodied AI | Computer Vision | Multimodal Learning</h3>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
